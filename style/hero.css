@@ -1,0 +1,8 @@
+.hero {
+  background-color: #c7c3c3;
+  height: 500px;
+}
+
+.hero__container {
+  height: 100%;
+}
