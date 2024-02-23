@@ -1,5 +1,7 @@
 @import url('../style/normalize.css');
 
+@import url('../style/root.css');
+
 @import url('../style/default.css');
 
 @import url('../style/header.css');
@@ -18,6 +20,6 @@
 
 /* @import url('../style/style.css');
 @import url('../style/style.css');
-@import url('../style/style.css');
+
 @import url('../style/style.css');
 @import url('../style/style.css'); */
