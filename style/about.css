@@ -1,4 +1,4 @@
-.about {
+/* .about {
   padding-top: 30px;
   padding-bottom: 68px;
   background-color: rgb(124, 147, 149);
@@ -67,4 +67,29 @@
 .about__link-img {
   height: 58px;
   width: 61px;
+} */
+
+.about {
+  
+}
+
+.about__container {
+}
+
+.about__title {
+}
+
+.about__description-wrapper {
+}
+
+.about__description-image {
+}
+
+.about__description-text {
+}
+
+.about__link {
+}
+
+.about__link-images {
 }
