@@ -1,0 +1,79 @@
+.cases {
+  padding: 42px 0 52px;
+  background-color: var(--granny-smith-bg);
+}
+
+.cases__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: space-between; */
+}
+
+.cases__title {
+  margin-bottom: 170px;
+  font-family: 'Unbounded', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 40px;
+  color: var(--black);
+}
+
+.cases__list {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  align-self: center;
+}
+
+.cases__item {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+.cases__item-images {
+  margin-bottom: 45px;
+}
+
+.cases__item-titile {
+  font-family: 'Neutral Face', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 20px;
+  color: var(--black);
+  margin-bottom: 59px;
+}
+
+.cases__item-subtitle {
+  font-family: 'Neutral Face';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 20px;
+  color: var(--black);
+  margin-bottom: 74px;
+}
+
+.cases__link {
+  font-family: 'Gardens CM', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 55px;
+
+  color: var(--white);
+  display: flex;
+  align-self: flex-end;
+
+  border: 1px solid transparent;
+}
+
+.cases__link-images {
+  stroke: var(--white);
+}
