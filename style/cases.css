@@ -26,6 +26,7 @@
   grid-template-columns: repeat(3, 1fr);
   justify-items: center;
   align-self: center;
+  gap: 50px;
 }
 
 .cases__item {

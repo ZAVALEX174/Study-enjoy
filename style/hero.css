@@ -7,6 +7,23 @@
   height: 950px;
 }
 
+/*для красоты*/
+.trailers__wrapper {
+  /* для position:absolute у trailers__video */
+  position: relative;
+  padding-bottom: 50.25%;
+  height: 0;
+  overflow: hidden;
+}
+
+.trailers__video {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
 @media (max-width: 1024px) {
   .hero__container {
     height: 693px;
