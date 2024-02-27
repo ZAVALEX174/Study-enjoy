@@ -3,6 +3,7 @@
   background-color: var(--white);
 }
 .contacts__container {
+  max-width: 1788px;
   padding: 30px 20px 25px;
   border-radius: 51px;
   background-image: url('../images/bg/1.png');
